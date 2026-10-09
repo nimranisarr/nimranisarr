@@ -1,83 +1,96 @@
 ## Hi there 👋
-align="center"} <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:312E81,100:0891B2&text=Nimra%20Nisar&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=Data%20Science%20Student%20%7C%20Aspiring%20Developer&descAlignY=59&descSize=16" width="100%" alt="Nimra Nisar banner" />{=html}
-<a href="https://readme-typing-svg.demolab.com">{=html} <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Data+Science+Student+at+UET+Lahore;C%2B%2B+%7C+Python+%7C+SQL;Learning+by+building;Curious+mind.+Consistent+growth." alt="Animated introduction" />{=html} </a>{=html}
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:111827,55:1D4ED8,100:0891B2&text=Nimra%20Nisar&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20Aspiring%20Developer&descAlignY=61&descSize=15" width="100%" alt="Nimra Nisar — Data Science Student" />
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Learning+by+building;C%2B%2B+%7C+Python+%7C+SQL;Exploring+data+and+software;Curious+mind%2C+consistent+growth" alt="Animated typing introduction" />
+</a>
+
 <p>
-<a href="https://github.com/nimranisarr">{=html}<img src="https://img.shields.io/badge/GitHub-nimranisarr-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />{=html}</a>{=html} <img src="https://komarev.com/ghpvc/?username=nimranisarr&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views" />{=html}
+  <a href="https://github.com/nimranisarr"><img src="https://img.shields.io/badge/GitHub-nimranisarr-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://github.com/nimranisarr?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
 </p>
-:::
 
-👩‍💻 About Me
-Hi, I'm Nimra Nisar, a Data Science student at UET Lahore interested in programming, data, and technology. I enjoy strengthening my fundamentals through hands-on practice and semester projects, and I'm always looking for opportunities to learn, collaborate, and build useful solutions.
-  🎓 Studying: Data Science at UET Lahore
-  💻 Languages: C++, Python, SQL
-  🧩 Interests: Problem-solving, object-oriented programming, databases, and data science
-  🌱 Currently focused on: Improving my coding skills and building practical projects
-  🤝 Open to: Learning opportunities and connecting with fellow tech enthusiasts
+</div>
 
-🧰 Tech Stack
-::: {align="center"} <img src="https://skillicons.dev/icons?i=cpp,python,mysql,git,github,vscode&theme=dark" alt="C++, Python, MySQL, Git, GitHub, and VS Code" />{=html}
-<br />{=html}
-<img src="https://img.shields.io/badge/C%2B%2B-Programming-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />{=html} <img src="https://img.shields.io/badge/Python-Programming-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />{=html} <img src="https://img.shields.io/badge/SQL-Databases-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />{=html} <img src="https://img.shields.io/badge/OOP-Foundations-7C3AED?style=flat-square" alt="Object-oriented programming" />{=html} :::
+---
 
-🚀 Projects & Learning
-I'm building my experience through coursework and practical projects. This section will grow as I publish more repositories.
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">
-🛍️ Thrift Store Management System
-</h3>
+## About Me
+
+Hi! I'm **Nimra Nisar**, a **Data Science student at UET Lahore** interested in programming, data, and technology. I enjoy learning through hands-on practice, strengthening my problem-solving skills, and building projects as I grow.
+
+- 🎓 Data Science student at UET Lahore
+- 💻 Programming with **C++** and **Python**
+- 🗄️ Learning and practicing **SQL**
+- 🧩 Interested in object-oriented programming, databases, and data science
+- 🌱 Focused on improving my skills through coursework and practical projects
+- 🤝 Always happy to connect with fellow learners and tech enthusiasts
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,mysql,github,vscode&theme=dark" alt="C++, Python, MySQL, Git, GitHub and VS Code" />
+
+</div>
+
 <p align="center">
-A management-system project concept covering sellers, buyers, products, orders, and payments.
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/OOP-Practice-7C3AED?style=flat-square" alt="Object-oriented programming" />
 </p>
-<p align="center">
-<strong>{=html}Focus:</strong>{=html} C++ · OOP
-</p>
-<p align="center">
-<a href="https://github.com/nimranisarr?tab=repositories">{=html}Explore repositories →</a>{=html}
-</p>
-</td>
-<td width="50%">
-<h3 align="center">
-🎓 Academic Projects
-</h3>
-<p align="center">
-Coursework and practice projects to improve programming logic, database skills, and problem-solving.
-</p>
-<p align="center">
-<strong>{=html}Focus:</strong>{=html} C++ · Python · SQL
-</p>
-<p align="center">
-<a href="https://github.com/nimranisarr?tab=repositories">{=html}View my projects →</a>{=html}
-</p>
-</td>
-</tr>
-</table>
 
-📊 GitHub Overview
-::: {align="center"} <img height="165" src="https://github-readme-stats.vercel.app/api?username=nimranisarr&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=CBD5E1" alt="GitHub statistics" />{=html} <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimranisarr&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" alt="Top programming languages" />{=html}
-<br />{=html}
-<img src="https://streak-stats.demolab.com?user=nimranisarr&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" alt="GitHub contribution streak" width="70%" />{=html} :::
+---
 
-🐍 Contribution Graph
-::: {align="center"} <img src="https://raw.githubusercontent.com/nimranisarr/nimranisarr/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />{=html} :::
-To enable the contribution-snake animation, configure a GitHub Actions workflow in this profile repository to generate the output file.
+## Projects & Practice
 
-🌐 Connect With Me
-::: {align="center"} <a href="https://github.com/nimranisarr">{=html}<img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />{=html}</a>{=html}
-<br />{=html}
-"Small steps, consistent learning, meaningful progress." :::
-<!--
-**nimranisarr/nimranisarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+| Project / Focus | What I'm practicing |
+|:--|:--|
+| **Thrift Store Management System** | C++ classes, objects, and management-system logic |
+| **Student Grade Management System ** | Programming fundamentals and problem-solving |
+| **SQL Practice** | Queries, tables, and database concepts |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+*More projects will be added here as I publish them.*
+
+[**Browse my repositories →**](https://github.com/nimranisarr?tab=repositories)
+
+---
+
+## Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Programming-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Programming-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Database-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+
+</div>
+
+I’m building my skills one project at a time. As I publish more work, you’ll find it in my repositories.
+
+[**Browse my repositories →**](https://github.com/nimranisarr?tab=repositories)
+
+---
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/nimranisarr"><img src="https://img.shields.io/badge/GitHub-Visit%20my%20profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub profile" /></a>
+
+<br />
+
+*“Learn consistently. Build thoughtfully. Keep growing.”*
+
+</div>
